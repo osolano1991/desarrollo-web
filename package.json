@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/osolano1991/desarrollo-web-chatbot/issues"
   },
-  "homepage": "https://github.com/osolano1991/desarrollo-web-chatbot#readme"
+  "homepage": "https://github.com/osolano1991/desarrollo-web-chatbot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
 }
